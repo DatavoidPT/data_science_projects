@@ -1,2 +1,3 @@
-# data_science_projects
+# Data Science
+
 Set of data science projects
